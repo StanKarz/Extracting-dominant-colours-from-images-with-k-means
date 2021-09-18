@@ -1,1 +1,1 @@
-# Extracting-dominant-colours-from-an-image
+# Extracting dominant colours from images using K means clustering
