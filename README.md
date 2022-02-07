@@ -1,4 +1,4 @@
-# Extracting dominant colours from images using K means clustering
+# Extracting dominant colours from images with k-means clustering
 
 This Jupyter notebook aims to show how to use the K means clustering algorithm and how to pick an optimal value for K using the elbow plot method, in order to extract the dominant colours from images. A range of libraries are used to achieve and illustrate this result such as Numpy, Matplotlib, SciPy and scki-kit learn. 
 
